@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">testAiwe</string>
+    <string name="active_cryptocurrencies">activeCryptocurrencies = %1$d</string>
+    <string name="upcoming_icos">upcomingIcos = %1$d</string>
+    <string name="ongoing_icos">ongoingIcos = %1$d</string>
+    <string name="ended_icos">endedIcos = %1$d</string>
+    <string name="markets">markets = %1$d</string>
+    <string name="name">name: %1$s</string>
+    <string name="perc">percentage = %1$1f</string>
+    <string name="parse">Parse</string>
+    <string name="show">Show</string>
+    <string name="percentages">MarketCapsPercentage</string>
+</resources>
